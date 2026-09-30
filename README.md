@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SITE ACM Student Chapter
 
 > **Official Website & Admin Management Platform for SITE ACM Student Chapter**  
@@ -140,3 +141,7 @@ The project is fully pre-configured for instant deployment on:
 - **Treasurer**: Akhil Kumar Yandamuri
 - **Secretary**: Kolluri Durga Sai Lavanya
 - **Membership Chair**: Teja Kiran Chandu Kanuri
+=======
+# ACM
+DEPLOYMENT PURPOSE
+>>>>>>> bdd362cdd5436641692936fa2cec09c6d476f6f8
