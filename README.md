@@ -12,7 +12,7 @@ The **SITE ACM Student Chapter** platform is a modern, high-performance web appl
 
 ---
 
-## 💻 Tech Stack & Architecture
+## 💻 Tech Stack & Architecture 
 
 - **Frontend**: React 19, Vite 6, Tailwind CSS v3, Framer Motion 13, Lucide React
 - **Routing**: React Router v7 (SPA with Vercel & Netlify rewrite support)
